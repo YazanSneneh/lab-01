@@ -1,0 +1,16 @@
+.div-item{
+    padding: 5% 0;
+}
+
+main > section:first-child{
+    padding: 5% 0;
+}
+.article-container article{
+    display: inline-block;
+    padding: 5% 0;
+    width: 48.9%;
+}
+
+section > section:last-child{
+    padding: 5% 0;
+}
