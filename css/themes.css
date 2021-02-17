@@ -1,32 +1,68 @@
 .a{
-    background-color: #ff75a0;  
+    background-color: #1687a7;  
 }
 .b{
-    background-color: #fce38a;   
+    background-color: #b68973;   
  }
 .c{
-    background-color: #9fb8ad;
+    background-color: #726a95;
  }
 
 .d{
-    background-color: #fb743e;   
+    background-color: #eb5e0b;   
  }
 
 .e{
-    background-color: #9a8194;   
+    background-color: #663f3f;   
  }
 
  .f{
     background-color: #f9f871;
  }
  .g{
-    background-color: #1687a7;   
+    background-color: #ffcc29;   
  }
 
  .h{
-    background-color: #51c2d5;
+    background-color: #80ffdb;
  }
 
  .i{
-    background-color: #ec4646;
+    background-color: #6930c3;
  }
+
+ @media( min-width: 1024px){
+   .a{
+      background-color: #ff75a0;  
+  }
+  .b{
+      background-color: #fce38a;   
+   }
+  .c{
+      background-color: #9fb8ad;
+   }
+  
+  .d{
+      background-color: #fb743e;   
+   }
+  
+  .e{
+      background-color: #9a8194;   
+   }
+  
+   .f{
+      background-color: #f9f871;
+   }
+   .g{
+      background-color: #1687a7;   
+   }
+  
+   .h{
+      background-color: #51c2d5;
+   }
+  
+   .i{
+      background-color: #ec4646;
+   }
+  
+}

@@ -1,16 +1,28 @@
-.div-item{
-    padding: 5% 0;
+#main{
+    display: grid;
+    grid-template-columns: 1fr;
 }
+ .b{
+    padding: 5%;
+ }
+ /* ........................... */
+ #container-group-b{
+     display: grid;
+     grid-template-columns: 1fr; 
+ }
 
-main > section:first-child{
-    padding: 5% 0;
-}
-.article-container article{
-    display: inline-block;
-    padding: 5% 0;
-    width: 48.9%;
-}
+ .grid-item{
+   padding: 5%;
+ }
 
-section > section:last-child{
-    padding: 5% 0;
-}
+ #container-group-c{
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+ }
+ .article{
+     padding: 5%;
+ }
+ /* ................................... */
+ .i{
+     padding: 5%;
+ }
